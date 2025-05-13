@@ -1,0 +1,38 @@
+ITM001,RAM ,8GB DDR4 Memory,39,21,5.6
+ITM002,Graphic Card,NVIDIA GTX 1050,31,30,3.2
+ITM003,CPU 1.0,Intel Core i5 Processor,9,10,3.5
+ITM004,Mouse,Wireless Optical Mouse,25,10,12.0
+ITM005,ASAS123,Gaming Mechanical Keyboard 123,34,40,21.0
+ITM006,Kingston SSD 3.0,500GB NVMe SSD,12,15,80.0
+ITM007,Monitor,24-inch Full HD Monitor,39,25,120.0
+ITM008,Headset,Gaming Headset with Mic,-1,20,25.0
+ITM009,Motherboard,ATX Motherboard,8,7,75.0
+ITM010,PSU,600W Power Supply Unit,15,10,40.0
+ITM011,Cooler,CPU Liquid Cooler,7,5,55.0
+ITM012,Keyboard,Mechanical Keyboard,22,20,45.0
+ITM013,Webcam,Full HD Webcam,-1,10,20.0
+ITM014,Printer,Wireless Inkjet Printer,6,8,90.0
+ITM015,Router,Dual-Band Wi-Fi Router,18,10,60.0
+ITM016,Hard Drive,2TB External Hard Drive,11,15,65.0
+ITM017,Speakers,Bluetooth Desktop Speakers,9,10,30.0
+ITM018,Tablet,10-inch Android Tablet,7,5,150.0
+ITM019,Mouse Pad,Gaming Mouse Pad,30,20,10.0
+ITM020,Laptop,15-inch Gaming Laptop,4,3,800.0
+ITM021,USB Drive,64GB USB 3.0 Flash Drive,50,30,10.0
+ITM022,Case,Mid-Tower PC Case,13,8,45.0
+ITM023,Thermal Paste,High Performance Thermal Paste,100,50,5.0
+ITM024,GPU Cooler,GPU Liquid Cooler,6,4,70.0
+ITM025,Stylus Pen,Digital Stylus for Tablets,16,12,15.0
+ITM026,Docking Station,USB-C Docking Station,9,6,65.0
+ITM027,Power Bank,10000mAh Power Bank,25,10,20.0
+ITM028,Smart Watch,Fitness Smart Watch,-1,5,2.0
+ITM029,External DVD,External DVD Writer,7,10,25.0
+ITM030,Projector,Mini Portable Projector,4,10,150.0
+ITM031,as,as,12,12,12.0
+ITM032,sgfd,sddfdf,23,21,12.0
+ITM033,sdfdssd,dasfsdf,-1,21,123.0
+ITM034,Hello,My name is NAreen ,-1,50,4.5
+ITM035,Hi,123,12,13,1.5
+ITM036,as,as,12,12,212.0
+ITM037,asdsdas,asasadasa,1212,1212,1.0
+ITM038,Keyboard,Mechanical,3,10,40.0
