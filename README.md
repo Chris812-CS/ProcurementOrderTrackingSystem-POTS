@@ -25,7 +25,7 @@ Procurement Order Tracking System Built Using Java
 ### Profile (Standardized for Every User)
 ![image](https://github.com/user-attachments/assets/97eed1f8-aeb2-4247-8d51-aa69b9303a11)
 
-## Finance Manager
+## Finance Manager (Christian Teo Li Xin | Chris812 - CS)
 ### Payment History
 ![image](https://github.com/user-attachments/assets/784f25fa-2756-4913-81f8-40584a6948b5)
 
@@ -37,6 +37,31 @@ Procurement Order Tracking System Built Using Java
 
 ### Payment Summary
 ![image](https://github.com/user-attachments/assets/5fa37c8d-030e-4590-af56-b8dae705a352)
+
+### Purchase Manager (Chow Chi Hua | Huahua789)
+### Add Purchase Order
+![image](https://github.com/user-attachments/assets/e16d6d58-c709-4513-8fdd-ab6dbebc33e4)
+
+### Edit & Delete Purchase Order
+![image](https://github.com/user-attachments/assets/59848d38-54fa-4690-b04e-2dcbe365dde9)
+
+### View Purchase Order
+![image](https://github.com/user-attachments/assets/5ffe894f-6289-47f5-9c63-cd4036f466b6)
+
+### Add Purchase Requisition
+![image](https://github.com/user-attachments/assets/aea17d8d-6262-40ad-9528-34cc1e7bedce)
+
+### View Purchase Requisition
+![image](https://github.com/user-attachments/assets/ddb33261-8478-4ce8-85d4-08af67ad8436)
+
+### View Items
+![image](https://github.com/user-attachments/assets/a53e4d85-71ba-47fb-85bb-338e1816e6ac)
+
+### View Suppliers
+![image](https://github.com/user-attachments/assets/20755737-9384-4b35-a798-b5f8ceed5c51)
+
+### Profile
+![image](https://github.com/user-attachments/assets/89adedfe-c85e-4ce9-9b3a-a2c4510a4104)
 
 
 
