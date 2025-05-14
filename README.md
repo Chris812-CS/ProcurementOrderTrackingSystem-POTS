@@ -3,7 +3,7 @@ Procurement Order Tracking System Built Using Java
 
 
 
-## Sales Manager
+## Sales Manager (Owi Sze Jay | cj.owi2004)
 ### View List of Items
 ![image](https://github.com/user-attachments/assets/5feafbac-6ef4-4635-a53d-8b70f4e97885)
 
