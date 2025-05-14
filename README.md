@@ -63,6 +63,38 @@ Procurement Order Tracking System Built Using Java
 ### Profile
 ![image](https://github.com/user-attachments/assets/89adedfe-c85e-4ce9-9b3a-a2c4510a4104)
 
+## Inventory Manager (Nareen Raj | androcatz1)
+### View Items
+![image](https://github.com/user-attachments/assets/7ff82ef9-ff27-49f8-a40d-ea3a8aef322e)
 
+### Add Items
+![image](https://github.com/user-attachments/assets/c111af13-7ad7-4a99-8f80-83ef4c945019)
+
+### Edit Items
+![image](https://github.com/user-attachments/assets/6ca19098-d6cf-45e6-8199-b6f89ce6678e)
+
+### View Suppliers
+![image](https://github.com/user-attachments/assets/ddc282b1-5dde-471b-a12e-7d4fa9c4fd2f)
+
+### Add Suppliers
+![image](https://github.com/user-attachments/assets/4b6bb363-9eb3-443e-a3ac-a6c05034ffce)
+
+### Edit Supplier
+![image](https://github.com/user-attachments/assets/bc870320-9c3a-44dd-a80c-1061b9cfde58)
+
+### View Inventory
+![image](https://github.com/user-attachments/assets/5e0d01a3-184c-4eb4-a287-c7852cfa1881)
+
+### Add Inventory
+![image](https://github.com/user-attachments/assets/b6c9dacb-2c54-490a-bc73-b0d2f7b6900d)
+
+### Edit Invetory
+![image](https://github.com/user-attachments/assets/58aa140c-15cd-4a88-bbf7-d1ee4f6760b5)
+
+### Update Stock
+![image](https://github.com/user-attachments/assets/1e58c599-238d-4048-9010-1dbff430be8b)
+
+### Profile
+![image](https://github.com/user-attachments/assets/2b79ced3-05cc-4309-be3e-5ee234c0b83d)
 
 
