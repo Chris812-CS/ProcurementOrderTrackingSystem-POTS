@@ -1,6 +1,6 @@
 # Procurement Order Tracking System (POTS)
 Procurement Order Tracking System Built Using Java
-
+##
 ## Admin (Naviin Raj | xxufnaviin)
 ### Login Page
 ![image](https://github.com/user-attachments/assets/917952c8-67be-49ea-a450-884a0662308e)
@@ -16,7 +16,7 @@ Procurement Order Tracking System Built Using Java
 
 ### Profile
 ![image](https://github.com/user-attachments/assets/a91b9e73-c4bd-4084-88da-c63359cd4f60)
-### 
+## 
 ## Sales Manager (Owi Sze Jay | cj.owi2004)
 ### View List of Items
 ![image](https://github.com/user-attachments/assets/5feafbac-6ef4-4635-a53d-8b70f4e97885)
@@ -38,7 +38,7 @@ Procurement Order Tracking System Built Using Java
 
 ### Profile (Standardized for Every User)
 ![image](https://github.com/user-attachments/assets/97eed1f8-aeb2-4247-8d51-aa69b9303a11)
-### 
+## 
 ## Finance Manager (Christian Teo Li Xin | Chris812 - CS)
 ### Payment History
 ![image](https://github.com/user-attachments/assets/784f25fa-2756-4913-81f8-40584a6948b5)
@@ -51,7 +51,7 @@ Procurement Order Tracking System Built Using Java
 
 ### Payment Summary
 ![image](https://github.com/user-attachments/assets/5fa37c8d-030e-4590-af56-b8dae705a352)
-### 
+##
 ### Purchase Manager (Chow Chi Hua | Huahua789)
 ### Add Purchase Order
 ![image](https://github.com/user-attachments/assets/e16d6d58-c709-4513-8fdd-ab6dbebc33e4)
@@ -76,7 +76,7 @@ Procurement Order Tracking System Built Using Java
 
 ### Profile
 ![image](https://github.com/user-attachments/assets/89adedfe-c85e-4ce9-9b3a-a2c4510a4104)
-### 
+##
 ## Inventory Manager (Nareen Raj | androcatz1)
 ### View Items
 ![image](https://github.com/user-attachments/assets/7ff82ef9-ff27-49f8-a40d-ea3a8aef322e)
