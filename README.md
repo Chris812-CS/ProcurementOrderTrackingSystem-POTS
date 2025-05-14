@@ -24,3 +24,20 @@ Procurement Order Tracking System Built Using Java
 
 ### Profile (Standardized for Every User)
 ![image](https://github.com/user-attachments/assets/97eed1f8-aeb2-4247-8d51-aa69b9303a11)
+
+## Finance Manager
+### Payment History
+![image](https://github.com/user-attachments/assets/784f25fa-2756-4913-81f8-40584a6948b5)
+
+### View Stock Level
+![image](https://github.com/user-attachments/assets/57386592-2f5b-4f82-92f2-5d6bedfc2949)
+
+### Purchase Table
+![image](https://github.com/user-attachments/assets/a6b12b35-2ad7-412a-aedc-e0d4f5a3fdc5)
+
+### Payment Summary
+![image](https://github.com/user-attachments/assets/5fa37c8d-030e-4590-af56-b8dae705a352)
+
+
+
+
